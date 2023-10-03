@@ -11,17 +11,17 @@ Welcome to my CSS repository! This repository is a collection of CSS code files 
 
 ## Introduction
 
-This repository serves as a storage place for my CSS code. Whether you're a beginner or an experienced developer, you might find useful HTML examples and templates here.
+This repository serves as a storage place for my CSS code. Whether you're a beginner or an experienced developer, you might find useful CSS examples and templates here.
 
 ## Usage
 
 Feel free to browse through the code in this repository. You can clone it to your local machine using the following command:
 
 bash
-git clone https://github.com/yourusername/html.git
+git clone https://github.com/yourusername/CSS.git
 
 
-You can then open and modify the HTML files as needed for your own projects or learning purposes.
+You can then open and modify the CSS files as needed for your own projects or learning purposes.
 
 ## Contributing
 
